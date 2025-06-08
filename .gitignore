@@ -1,1 +1,6 @@
 data
+models
+models/classifier.pkl
+models/lda_model.pkl
+models/mlb_model.pkl
+models/vectorizer.pkl
